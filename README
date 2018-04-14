@@ -1,0 +1,2 @@
+This Dockerfile takes a base/devel ( arch linux ) image and installs all the apps required
+to run a RefineryCMS ( Ruby gem ) instance on
